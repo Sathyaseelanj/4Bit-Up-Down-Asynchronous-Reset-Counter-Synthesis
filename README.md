@@ -63,13 +63,13 @@ used.
 
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
-#### Synthesis RTL Schematic :
+### Synthesis RTL Schematic :
 ![sathya](https://github.com/Sathyaseelanj/4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis/blob/main/Screenshot%20(7).png)
-#### Area report:
+### Area report:
 ![sathya](https://github.com/Sathyaseelanj/4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis/blob/main/Screenshot%20(8).png)
-#### Power Report:
+### Power Report:
 ![sathya](https://github.com/Sathyaseelanj/4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis/blob/main/Screenshot%20(9).png)
-#### Timing Report: 
+### Timing Report: 
 ![sathya](https://github.com/Sathyaseelanj/4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis/blob/main/Screenshot%20(10).png)
-#### Result: 
+### Result: 
 The generic netlist has been created, and area, power, and timing reports have been tabulated and generated using Genus.
